@@ -1,16 +1,10 @@
-h1 {color: blueviolet;
-  text-align: center;
+.important {
+  color: red;
 }
-h2 {
-  color: aqua;
-  font-style: italic;
-  text-align: center;
+.unimportant {
+  color: blue;
 }
-p {
-  font-family: sans-serif;
+.cat-climate {
+  background-color: yellow;
 }
-ul {
-  line-height: 40px;
-}
-body { background-color: darkolivegreen;}
-h1 {font-family: cursive;}
+  
