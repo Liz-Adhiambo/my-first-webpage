@@ -18,5 +18,5 @@ CSS
 ## Support and contact details
 If you run on any issues contact elizabeth.onyango@moringaschool.com. If you would like to make contribution to my code, don't hesitate to contact me.
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*MIT*
 Copyright (c) 2022 **Liz2222**
